@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Google Drive\n"
+"POT-Creation-Date: 2013-06-22 22:25+0100\n"
+"PO-Revision-Date: 2013-06-22 22:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: Lowtone <info@lowtone.nl>\n"
+"Language: Dutch\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../lowtone-media-google-drive.php:35
+#: ../../lowtone-media-google-drive.php:52
+msgid "Google Drive"
+msgstr "Google Drive"
+
+#: ../../lowtone-media-google-drive.php:36
+msgid "Import a file from Google Drive."
+msgstr "Een bestand importeren uit Google Drive."
+
+#: ../../lowtone-media-google-drive.php:43
+msgid "Select a file on Google Drive"
+msgstr "Selecteer een bestand op Google Drive"
+
+#: ../../lowtone-media-google-drive.php:44
+msgid "Select the file you want to import."
+msgstr "Selecteer het bestand dat u wilt importeren."
